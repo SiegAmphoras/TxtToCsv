@@ -22,8 +22,7 @@ namespace TextToCsvWithSelection
         {
             Stream chooseStream = null;
             OpenFileDialog toRead = new OpenFileDialog();
-            StreamWriter outLines = new StreamWriter(@"C:\Users\Public\output.csv");
-
+           
             //setup defaults
             toRead.InitialDirectory = "c:\\";
             toRead.Filter = "txt files (*.txt)|*.txt";
@@ -35,6 +34,9 @@ namespace TextToCsvWithSelection
             {
                 try
                 {
+                    string outPath = toRead.FileName+".csv";
+                    StreamWriter outLines = new StreamWriter(outPath);
+
                     //create a stream to read the file
                     if ((chooseStream = toRead.OpenFile()) != null)
                     {
