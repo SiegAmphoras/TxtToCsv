@@ -1,0 +1,12 @@
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\bin\Debug\TextToCsvWithSelection.exe.config
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\bin\Debug\TextToCsvWithSelection.exe
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\bin\Debug\TextToCsvWithSelection.pdb
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\obj\Debug\TextToCsvWithSelection.csprojResolveAssemblyReference.cache
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\obj\Debug\TextToCsvWithSelection.Form1.resources
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\obj\Debug\TextToCsvWithSelection.Properties.Resources.resources
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\obj\Debug\TextToCsvWithSelection.csproj.GenerateResource.Cache
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\obj\Debug\TextToCsvWithSelection.exe
+c:\users\siega\documents\visual studio 2013\Projects\TextToCsvWithSelection\TextToCsvWithSelection\obj\Debug\TextToCsvWithSelection.pdb
+C:\Users\SiegA\Desktop\TxtToCsv\TextToCsvWithSelection\bin\Debug\TextToCsvWithSelection.exe.config
+C:\Users\SiegA\Desktop\TxtToCsv\TextToCsvWithSelection\obj\Debug\TextToCsvWithSelection.exe
+C:\Users\SiegA\Desktop\TxtToCsv\TextToCsvWithSelection\obj\Debug\TextToCsvWithSelection.pdb
